@@ -1,17 +1,11 @@
-<p align="center">
-    <a href="https://speakeasyapi.dev">
-        <img alt="Speakeasy" title="Speakeasy" src="https://user-images.githubusercontent.com/68016351/196461357-fcb8d90f-cd67-498e-850f-6146c58d0114.png" width="400" style="color: black">
-    </a>
-</p>
+<div align="center">
 
-<p align="center">
-    <i>Speakeasy is the fastest way to ship developer experience for your APIs.</i><br/> 
-    <a href="https://speakeasyapi.dev/">speakeasyapi.dev</a>
-</p>
+<a href="[Speakeasy](https://speakeasyapi.dev/)">
+  <img src="https://github.com/speakeasy-api/speakeasy/assets/68016351/e959f81a-b250-4003-8c5c-a45b9463fc95" alt="Speakeasy Logo" width="400">
+<h2>Speakeasy Bar tsoa Example</h2>
+</a>
 
-<h1>
-    Speakeasy Bar tsoa Example
-</h1>
+</div>
 
 This example tsoa app demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications and SDKs.
 
